@@ -40,7 +40,7 @@ Object.defineProperty(NextImage, 'default', {
 export const decorators = [
   (Story) => (
     // <AuthProvider>
-      <Story />
+    <Story />
     // </AuthProvider>
   ),
 ];

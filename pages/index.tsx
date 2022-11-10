@@ -14,7 +14,7 @@ const Home: NextPageWithLayout = () => {
         height={92}
         priority
       />
-      <Search/>
+      <Search />
       <p>
         Google offered in:{' '}
         <Link href="/" legacyBehavior>
